@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/drawable/card_edge.xml" value="0.1" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/drawable/ic_add.xml" value="0.191" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.173" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/drawable/ic_delete.xml" value="0.1745" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/drawable/ic_edit.xml" value="0.1745" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/drawable/ic_phone.xml" value="0.1745" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/drawable/ic_save.xml" value="0.1545" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/drawable/ic_user_avatar.xml" value="0.1" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/drawable/user_avatar.xml" value="0.188" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/drawable/user_avatar_add.xml" value="0.183" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/layout/activity_detail.xml" value="0.23125" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/layout/activity_editor.xml" value="0.25343999226562525" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/layout/activity_main.xml" value="0.25343999226562525" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/layout/list_user.xml" value="0.38399998828125037" />
+        <entry key="..\:/Produktif Android/PersonProfileSQLite/app/src/main/res/layout/pop_up.xml" value="0.38399998828125037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
